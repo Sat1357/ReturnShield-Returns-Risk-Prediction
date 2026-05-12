@@ -453,13 +453,6 @@ sql/returnshield_business_analysis.sql
 
 ---
 
-## Interview Explanation
-
-If asked to explain this project, the short answer is:
-
-> ReturnShield is an end-to-end return-risk pipeline built using retail order, return, and shipping data. I cleaned and merged multiple datasets, engineered customer, product, delivery, profitability, and historical return-rate features, compared several machine learning models, generated return-risk scores, exported the results into SQLite, and used SQL to extract business insights. The model performance was moderate because the dataset was imbalanced and did not include deeper return-specific features, so I positioned the project as a realistic risk-scoring and business analysis workflow rather than a production-ready prediction system.
-
----
 
 ## Final Summary
 
