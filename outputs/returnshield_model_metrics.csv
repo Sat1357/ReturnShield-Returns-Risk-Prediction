@@ -1,0 +1,8 @@
+metric,value
+best_model,Gradient Boosting
+total_model_rows,9994
+training_rows,7995
+testing_rows,1999
+return_rate,0.08
+roc_auc_score,0.582
+average_precision_score,0.097

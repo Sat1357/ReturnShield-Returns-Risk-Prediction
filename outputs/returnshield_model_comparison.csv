@@ -1,0 +1,5 @@
+model,accuracy,precision_returned,recall_returned,f1_returned,roc_auc,average_precision
+Gradient Boosting,0.693,0.081,0.275,0.126,0.582,0.097
+Random Forest,0.723,0.085,0.25,0.126,0.578,0.096
+Extra Trees,0.71,0.085,0.269,0.129,0.563,0.092
+Logistic Regression,0.715,0.077,0.231,0.115,0.504,0.079
